@@ -1,7 +1,6 @@
 -- SHOW ALL NAME DBFROM SYSTEM
 SELECT name FROM master.sys.databases
 
-
 -- SHOW TABLES ABOUT DB 
 SELECT
   *
