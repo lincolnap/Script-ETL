@@ -1,0 +1,8 @@
+SELECT name FROM master.sys.databases
+
+SELECT
+  *
+FROM
+  AdventureWorks2019.INFORMATION_SCHEMA.TABLES
+ORDER BY TABLE_SCHEMA ASC;
+GO
